@@ -1,0 +1,45 @@
+.centra {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.dim-logo { 
+	height : 50px;
+	width : 50px
+}
+
+  h1 {
+  	color: white; 
+  	font-family: Helvetica, sans-serif; 
+  	font-size: 60px;
+  }
+  h2, body, a {
+  	color: white; font-family: Helvetica, sans-serif;
+  }
+
+nav {
+	text-align: center;
+}
+
+body,head {
+ background-image : url(immagini/sfondo.png);}
+
+p,div,h2 {
+	text-align: justify;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+ blockquote {
+text-align: justify;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+ul,li{
+	text-align : center;
+	margin-left: 150px;
+	margin-right: 150px;
+
+}
